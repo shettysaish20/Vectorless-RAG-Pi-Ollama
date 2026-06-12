@@ -28,4 +28,4 @@ This repository is a small experiment for testing PageIndex-based retrieval and 
 4. Open the main notebook and run the cells in order.
 
 ## For more information
-- [**Forget Embeddings: Why I Switched to Vectorless RAG for Legal Documents**](#)
+- [**Forget Embeddings: Why I Switched to Vectorless RAG**](https://medium.com/@shettysaish20/forget-embeddings-why-i-switched-to-vectorless-rag-130c111e3dac)
